@@ -1,0 +1,297 @@
+[
+  {
+    
+    "text": "Press Start to begin",
+    "image": "./images/WelcomePage.jpg",
+    "options" : [
+      {
+        "text": "Start!",
+        "send_to": 1
+      }
+     
+]
+  },
+{
+  
+  "text" : "It's a gorgeous day in Springfield, how would like to start your day?",
+      "image" : "https://media.giphy.com/media/l2JeckYqVLzKM5CJG/giphy.gif",
+      "options" : [
+        {
+          "text": "Forget your pants and run to Work before Mr.Burns finds out your late again", 
+          "send_to": 2
+        },
+        {
+          "text":"Run down to the Kwik-E-Mart and get some goodies", 
+          "send_to": 8
+        }
+  ]
+},
+
+{
+  
+  "text" : "You made it to work without Mr.Burns finding out",
+  "image" : "https://media.giphy.com/media/xT5LMwb0ulR1GiBGAE/giphy.gif",
+  "options" : [
+    {
+      "text": "You meet your new co-worker Frank Grimes",
+      "send_to": 3
+    },
+    {
+      "text": "You decide you've worked hard enough and decide to head to Moe's",
+      "send_to": 6
+    }
+  
+    
+  ]
+},
+{
+  "text": "Frank Grimes has told you he is not your friend and wants nothing to do with you ",
+  "image": "https://media.giphy.com/media/3orieR4dT90hu26qha/giphy.gif",
+  "options":[
+    {
+      "text": "You wallow and decide to invite him over to dinner to make amends",
+      "send_to": 4
+    },
+    {
+      "text": "You go to Moe's to drink away your frustrations",
+      "send_to": 6
+    }
+  ]
+},
+{
+  "text":"After hosting Frank Grimes, things only get worse and you decide to show him by winning the design contest at work",
+  "image":"https://media.giphy.com/media/xT5LMtVgwPThW9ys6s/giphy.gif",
+  "options":[
+    {
+      "text":"You win but Grimey goes nuts",
+      "send_to":5
+    },
+    {
+      "text": "You celebrate by taking the family to Itchy and Scratchyland",
+      "send_to": 11
+    }
+  ]
+},
+{
+  "text":"After witnessing Grimey go nuts you decide to:",
+  "image": "https://media.giphy.com/media/xT5LMUKI3D1n7juswM/giphy.gif",
+  "options":[
+    {
+      "text": "Go to Moe's",
+      "send_to": 6
+    }
+  ]
+},
+{
+  
+  "text": "Your at Moe's : ",
+  "image":"https://media.giphy.com/media/3o6Mb7sgYFzBWqVcuQ/giphy.gif",
+  "options" :[
+    {
+      "text":"You tell him about your day and he drowns your sorrows in Duff beer",
+      "send_to": 8
+    },
+    {
+      "text": "He gets a prank call from Anita Bath",
+      "send_to": 8
+    }
+  ]
+},
+{
+  "text": "Just like that your day is over...",
+  "image": "https://media.giphy.com/media/3orif2KBmy3AuEMKHu/giphy.gif",
+  "options" :[
+    {
+    "text": "Tomorrow is another day in Springfield",
+    "send_to": 0
+    }
+  ]
+
+},
+{
+  
+  "text" : "You walk into the Kwik-E-Mart:",
+  "image" : "https://vignette.wikia.nocookie.net/simpsons/images/d/da/800px-Kwik-E-Mart.png/revision/latest?cb=20170101230443",
+  "options" : [
+    {
+      "text": "You find Apu in the arms of another woman and leave quickly",
+      "send_to": 9
+    },
+    {
+      "text": "You order the most syrupy Squishee, he can make",
+      "send_to": 16
+    }
+  
+  ]
+},
+{
+  "text": "You walk home in silence, unable to believe what you saw",
+  "image": "https://media.giphy.com/media/a93jwI0wkWTQs/giphy.gif",
+  "options":[
+    {
+      "text": "You decide to go back in bed, because today has already been too much",
+      "send_to": 10
+    },
+    {
+      "text": "You decide to sell your soul to the devil to forget what you saw and get your snacks",
+      "send_to":11
+    }
+  ]
+},
+{
+  "text": "Home sweet home!",
+  "image": "https://media.giphy.com/media/11jmTpFxABHgLC/giphy.gif",
+  "options":[{
+    "text": "Ahh this is the life",
+    "send_to": 7
+   }
+   ]
+},
+{
+  "text": "The devil warns you that once you eat the last bite your soul is his...",
+  "image": "https://media.giphy.com/media/3o6Mb2yVtSb3jehdzq/giphy.gif",
+  "options":[
+    {
+      "text": "You decide not to eat the last piece to keep your soul",
+      "send_to": 12
+    },
+    {
+      "text": "You eat the last bite",
+      "send_to": 13
+    }
+  ]
+},
+{
+  "text": "Your smarter than the Devil!",
+  "image": "https://media.giphy.com/media/H1FsNgYDQ1YUE/giphy.gif",
+  "options":[
+    {
+      "text": "Woo-Hoo!",
+      "send_to": 7
+    }
+    
+  ]
+},
+{
+  "text": "The Devil takes you to hell",
+  "image": "https://media.giphy.com/media/2KEQJjChy7JXW/giphy.gif",
+  "options":[
+    {
+      "text": "You accept your fate and your punishment",
+      "send_to": 14
+    },
+    {
+      "text": "Marge will fight for you and get you back",
+      "send_to": 15
+    }
+  ]
+},
+
+{
+  "text": "Hell isn't so bad afterall",
+  "image": "https://media.giphy.com/media/SHgX30N0E60a4/giphy.gif",
+  "options":[
+    {
+      "text": "These donuts won't eat themselves",
+      "send_to": 7
+    }
+  ]
+},
+{
+  "text": "Marge saves you, you really are soul mates",
+  "image": "https://media.giphy.com/media/l2JdYow6E7gy2Cz5e/giphy.gif",
+  "options":[
+    {
+      "text": "Alls well that ends well",
+      "send_to": 7
+    }
+  ]
+},
+{
+  "text": "You drink the entire Squishee, what do you do next?",
+  "image": "https://media.giphy.com/media/hZxmxH9CUdXJm/giphy.gif",
+  "options":[
+    {
+      "text": "You hit the town Broadway style!",
+      "send_to": 16
+    },
+    {
+      "text":"Embrace the fox and go for a spiritual adventure",
+      "send_to":18
+    }
+  ]
+},
+{
+  "text":"You wake up from your sugar high in bed, wearing a Junior Campers uniform",
+  "image": "https://media.giphy.com/media/3orif4NEhVeqkI6Lny/giphy.gif",
+  "options":[
+    {
+      "text": "You pretend it never happened and go back to sleep",
+      "send_to": 7
+    },
+    {
+      "text": "You make Homer go with you, what's the worst that can happen?",
+      "send_to": 18
+    }
+  ]
+},
+{
+  "text":"The fox takes you on an Adventure, do you want to wake up?",
+  "image":"https://media.giphy.com/media/kG8DHp0vLHqqk/giphy.gif",
+  "options":[
+    {
+      "text": "Yes, please!",
+      "send_to": 7
+    },
+    {
+      "text": "No, let's see where this takes us!",
+      "send_to": 19
+    }
+  ]
+},
+{
+  "text":"You go on your first trip with the Junior Campers and get stranded on a raft. Do you: ",
+  "image":"https://media.giphy.com/media/xT5LMtXrPQzE6Nrr6E/giphy.gif",
+  "options":[
+    {
+      "text":"Trust Homer to get you out of this",
+      "send_to":20
+    },
+    {
+      "text": "Stand by Flanders to get you through",
+      "send_to": 21
+    }
+  ]
+},
+{
+  "text":"You go on the adventure with the fox",
+  "image":"https://media.giphy.com/media/Tvw7IfINUTBWU/giphy.gif",
+  "options":[
+    {
+      "text":"This is weird even for you",
+      "send_to":7
+    }
+  ]
+},
+{
+  "text":"Homer ate the last of your rations... and you throw him off the raft",
+  "image": "https://media.giphy.com/media/l2JehhFwMjwuCZAC4/giphy.gif",
+  "options":[
+    {
+      "text": "Ask Flanders what to do next?",
+      "send_to":21
+    }
+  ]
+},
+{
+  "text":"Flanders is the man! He uses his wit and his prayer to get you through this and you live to see another day!",
+  "image":"https://media.giphy.com/media/xT5LMDg9lfOzXEgx4A/giphy.gif",
+  "options":[
+    {
+      "text": "Time to go home",
+      "send_to":7
+    }
+  ]
+}
+
+]
