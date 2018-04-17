@@ -89,11 +89,11 @@
   "options" :[
     {
       "text":"You tell him about your day and he drowns your sorrows in Duff beer",
-      "send_to": 8
+      "send_to": 7
     },
     {
-      "text": "He gets a prank call from Anita Bath",
-      "send_to": 8
+      "text": "You soak up the latest gossip for your blog",
+      "send_to": 22
     }
   ]
 },
@@ -290,6 +290,16 @@
     {
       "text": "Time to go home",
       "send_to":7
+    }
+  ]
+},
+{
+  "text": "You get caught spilling the dirt on all your friends",
+  "image":"https://media.giphy.com/media/xT5LMyMdRfXsWwLyjm/giphy.gif",
+  "options":[
+    {
+      "text": "You get tossed out on your behind and go home to mope",
+      "send_to": 7
     }
   ]
 }
