@@ -30,9 +30,10 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        
         <header className="App-header">
         <h1 className="App-title"> Adventures in Springfield</h1>
-        <img src={welcome}  height= '640' width= '1240'  /> 
+        <img src={welcome}  height= '640' width= '1080'  /> 
         </header>
 
         <p>{this.state.name}</p>
@@ -51,6 +52,7 @@ class App extends Component {
 
         <br /><br /><br /><br />
       </div>
+      
     );
   }
 }
